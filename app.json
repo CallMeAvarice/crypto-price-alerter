@@ -1,0 +1,7 @@
+{
+  "name": "Crypto Price Alerter",
+  "description": "Crypto currency price alert service",
+  "repository": "https://github.com/callmeavarice/crypto-price-alerter",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}

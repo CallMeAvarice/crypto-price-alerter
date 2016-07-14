@@ -1,0 +1,29 @@
+{
+  "name": "crypto-price-alerter",
+  "version": "0.0.1",
+  "description": "A service for alerting someone when a crypto-currency is at a specified price.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/callmeavarice/crypto-price-alerter"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Stephen Jackson",
+  "contributors": [
+    ""
+  ],
+  "license": "MIT"
+}
